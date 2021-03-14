@@ -19,5 +19,8 @@ function b(){
         case "夏啵":
             window.location.href="words/夏啵/index.html";
             break;
+        default:
+            window.location.href="https://www.baidu.com/s?wd="+a;
+
     }
 }
