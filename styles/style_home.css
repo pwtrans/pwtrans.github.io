@@ -1,0 +1,38 @@
+h1 {
+  font-size: 50px;
+  line-height: 140px;
+  margin: 0 0 0 32.5px;
+}
+
+img {
+  position: absolute;
+  right: 32.5px;
+  top: 32.5px;
+}
+
+input {
+  margin: 15px 0px 15px 15px;
+  width: 85%;
+  height: 35px;
+}
+
+button {
+  width: 10%;
+  height: 41px;
+}
+
+.info {
+  width: 99%;
+  height: 10%;
+  background-color: #eee;
+  position: absolute;
+  bottom: 0;
+}
+
+p {
+  width: 100%;
+  position: absolute;
+  bottom: 5%;
+  text-align: center;
+}
+
