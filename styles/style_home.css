@@ -35,22 +35,25 @@ button {
   bottom: 5%;
   text-align: center;
 }
-h2{
+
+h2 {
   margin: 15px;
 }
+
 .reco_content {
-  display:inline-block;
+  display: inline-block;
   margin: 50px 10px;
   width: 30%;
-  border:#bbb 3px solid;
-  border-radius:13px;
+  border: #bbb 3px solid;
+  border-radius: 13px;
   color: black;
   text-decoration: none;
 }
 
-.reco_content:hover{
+.reco_content:hover {
   background: #bbb;
 }
-p{
-  margin:15px;
+
+p {
+  margin: 15px;
 }
