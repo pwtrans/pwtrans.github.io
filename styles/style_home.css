@@ -22,17 +22,35 @@ button {
 }
 
 .info {
-  width: 99%;
+  width: 98%;
   height: 10%;
   background-color: #eee;
   position: absolute;
   bottom: 0;
 }
 
-p {
+.pinfo {
   width: 100%;
   position: absolute;
   bottom: 5%;
   text-align: center;
 }
+h2{
+  margin: 15px;
+}
+.reco_content {
+  display:inline-block;
+  margin: 50px 10px;
+  width: 30%;
+  border:#bbb 3px solid;
+  border-radius:13px;
+  color: black;
+  text-decoration: none;
+}
 
+.reco_content:hover{
+  background: #bbb;
+}
+p{
+  margin:15px;
+}
