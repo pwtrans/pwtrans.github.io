@@ -3,7 +3,18 @@ h1 {
   font-size: 400%;
 }
 
+img {
+  position: absolute;
+  right: 32.5px;
+  top: 32.5px;
+}
+
 .video {
-  width: 60%;
-  height: 500px;
+  width: 45%;
+  height: 400px;
+  margin: 10px;
+}
+
+.content {
+  margin: 40px 35px;
 }
